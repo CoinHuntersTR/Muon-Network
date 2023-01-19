@@ -1,25 +1,23 @@
 # Muon network
-
+![image](https://miro.medium.com/max/4800/0*ncJaG1KX8nEilkwV)
 Merkezi olmayan bulut, bilgi işlem, zincirler arası köprü arayüzü ve oyun , DeFi ve dApp'ler için güvenli oracle'lar. Blockchain ile mümkün olduğunu düşündüğünüz şeyi yeniden tanımlayan çözüm olarak karşımıza çıkıyor.
 
 ## Ödül:
 
 * Muon'nun kanarya chaininde (kusama gibi) node kurmak belirli sayıda token gerektiriyor (tüm PoS zincirlerinde ki gibi) bu katılanlara ücretsiz verilecek.
-* [Sohbet Kanalı](https://t.me/MuonNetworkTurkish)
+* [Sohbet Kanalı](https://t.me/CoinHuntersTR/34102)
 * [Muon DC](https://discord.gg/muon)
 
 ## Sistem gereksinimleri:
-```
-2 CPU
-4 RAM
-20 SSD
-```
+|CPU | RAM  | Disk  | 
+|----|------|----------|
+|  2| 4GB  | 20GB    |
 
-## gerekli kurulum:
+## Gerekli kurulum:
 ```
 git clone https://github.com/muon-protocol/muon-node-js.git --recurse-submodules --branch testnet
 ```
-* Kırmızı yazılar görürseniz sorun yok, çalışıyor.
+* Yüklerken uyarı veya kırmızı yazılar görürseniz, korkmayın kurulumu tamamlıyor.
 
 ```
 cd muon-node-js
